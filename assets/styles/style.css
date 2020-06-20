@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'AsepriteFont';
   font-style: normal;
-  src: ../fonts/AsepriteFont.ttf;
+  src: url('../fonts/AsepriteFont.ttf');
 }
 
 html
@@ -21,9 +21,7 @@ svg:hover
 {
   fill: #ecab11;
 }
-/*---------------*\
-|------Icons------|
-\*---------------*/
+
 .icons
 {
   text-align: right;
