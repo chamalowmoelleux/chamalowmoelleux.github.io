@@ -124,7 +124,7 @@ svg:hover
   height: auto;
 }
 
-@media screen and (max-width:991px)
+@media screen and (orientation: portrait)
 {
   .icons
   {
